@@ -1,0 +1,9 @@
+.jumbotron{
+	background:url("http://landing.24pm.com.ua/css/bg/bg1.jpg")center center;
+	color:#FFF;
+	position: relative;
+    width: 100%;
+    height: 55%;
+    background-size: cover;
+    overflo
+}

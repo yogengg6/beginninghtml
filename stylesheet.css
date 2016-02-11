@@ -1,0 +1,27 @@
+body {	background-color: #222831;
+	
+
+}
+
+
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 7px;
+	color: #ecf0f1;
+	}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 4px;
+	font-weight:lighter;
+	font-size: 150%;
+	color: #ecf0f1;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 4px;
+	color: #bdc3c7;
+}
+
+
